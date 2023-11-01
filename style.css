@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  display: inline-block;
+  padding-left: 150px;
+  padding-top: 30px;
+}
+
+.tm_logo img {
+  max-width: 100px;
+  align-items: start;
+  padding-right: 200px;
+}
+.top_menu {
+  background: #eeeeee;
+  color: black;
+  display: flex;
+}
+.tm_logo,
+.nav {
+  display: inline-block;
+  font-weight: 25;
+}
+.nav a {
+  font-family: arial;
+  font-size: 35px;
+  color: black;
+  text-decoration: none;
+}
+.ame {
+  background: black;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+#amh {
+  display: flex;
+  font-size: 60px;
+  color: #eeeeee;
+  justify-content: center;
+}
+#amp {
+  color: #eeeeee;
+  font-size: 35px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 25px;
+}
+.ame a {
+  color: #e3dada;
+}
+.port {
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+#ph {
+  display: flex;
+  font-size: 60px;
+  justify-content: center;
+}
+#pp {
+  font-size: 35px;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 25px;
+}
+#hm {
+  background: url(5988264.png) no-repeat right center;
+  background-size: 60px;
+  display: inline-block;
+  vertical-align: bottom;
+  padding-right: 60px;
+  padding-bottom: 25px;
+}
+#ab {
+  background: url(6863084.png) no-repeat right center;
+  background-size: 50px;
+  display: inline-block;
+  vertical-align: bottom;
+  padding-right: 55px;
+  padding-bottom: 25px;
+}
+#pt {
+  background: url(943329.png) no-repeat right center;
+  background-size: 50px;
+  display: inline-block;
+  vertical-align: bottom;
+  padding-right: 60px;
+  padding-bottom: 25px;
+}
+#ct {
+  background: url(2947981.png) no-repeat right center;
+  background-size: 50px;
+  display: inline-block;
+  vertical-align: bottom;
+  padding-right: 60px;
+  padding-bottom: 25px;
+}
+.con {
+  background: black;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+#conh {
+  display: flex;
+  font-size: 60px;
+  color: #eeeeee;
+  justify-content: center;
+}
+#conp {
+  color: #eeeeee;
+  font-size: 35px;
+  padding-left: 200px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
